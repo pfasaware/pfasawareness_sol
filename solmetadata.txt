@@ -1,0 +1,11 @@
+{
+  "name": "PFAS Awareness",
+  "symbol": "PFAS",
+  "description": "A Token on Solana That Spreads Awareness About How Harmful PFAS Chemicals Really Are.",
+  "image": "https://raw.githubusercontent.com/pfasaware/pfasawareness_sol/refs/heads/main/pfas-diagram.jpg",
+  "extensions": {
+    "website": "https://www.youtube.com/watch?v=SC2eSujzrUY",
+    "twitter": "https://x.com/pfas_awareness",
+    "telegram": "https://t.me/pfas_awareness"
+  }
+}
